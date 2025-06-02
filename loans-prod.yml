@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to ASPBank loans related production APIs "
+  message: "Welcome to ASPBank loans related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@aspbank.com"
